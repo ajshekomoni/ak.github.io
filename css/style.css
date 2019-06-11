@@ -1,0 +1,15 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+}
+.parent{
+	position: absolute;
+	left: 100px;
+	top: 10px;
+}
+.titulli{
+	position: absolute;
+	top: 10px;
+}
+.layout{
+	position: fixed;
+}
